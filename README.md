@@ -1,10 +1,16 @@
-## ☘ Kwak Jiwoo
-
-> 프론트엔드 개발을 공부중입니다
+# ☘ Kwak Jiwoo
+> 안녕하세요! 유저 중심의 UX를 중시하는 프론트엔드 개발자 곽지우입니다.
 - email: wldn0804@gmail.com
-- Resume: [Link](https://jiwoo84.notion.site/fcef794f684d45eebbf412822083ae00)
 - Blog: [Link](https://jiwoo84.tistory.com/)
+- Resume: [Link](https://jiwoo84.notion.site/fcef794f684d45eebbf412822083ae00)
 
-### Stack
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 
+### 🛠 Teck Stack
+
+`used mainly` <img src="https://img.shields.io/badge/React.js-61DAFB?logo=React&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/></a>
+
+`used at least once` <img src="https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=skyblue"/></br>
