@@ -4,7 +4,7 @@
 - Blog: [Link](https://jiwoo84.tistory.com/)
 
 
-### 🛠 Teck Stack
+### Teck Stack
 
 `used mainly` <img src="https://img.shields.io/badge/React.js-61DAFB?logo=React&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white"/>
