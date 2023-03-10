@@ -2,7 +2,6 @@
 안녕하세요! 유저 중심의 UX를 중시하는 프론트엔드 개발자 곽지우입니다.
 - email: wldn0804@gmail.com
 - Blog: [Link](https://jiwoo84.tistory.com/)
-- Resume: [Link](https://jiwoo84.notion.site/fcef794f684d45eebbf412822083ae00)
 
 
 ### 🛠 Teck Stack
