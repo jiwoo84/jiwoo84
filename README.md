@@ -1,5 +1,5 @@
 # ☘ Kwak Jiwoo
-안녕하세요! 유저 중심의 UX를 중시하는 프론트엔드 개발자 곽지우입니다.
+안녕하세요! UX를 중시하는 프론트엔드 개발자 곽지우입니다.
 - email: wldn0804@gmail.com
 - Blog: [Link](https://jiwoo84.tistory.com/)
 - Portfolio: [Link](https://kwjportfolio.vercel.app/)
