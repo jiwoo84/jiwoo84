@@ -1,5 +1,5 @@
 # ☘ Kwak Jiwoo
-안녕하세요! UX를 중시하는 프론트엔드 개발자 곽지우입니다.
+안녕하세요! 똑 부러지게 일하는 프론트엔드 개발자 곽지우입니다.
 - email: wldn0804@gmail.com
 - Blog: [Link](https://jiwoo84.tistory.com/)
 
