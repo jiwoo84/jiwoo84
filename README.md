@@ -1,5 +1,4 @@
 # ☘ Kwak Jiwoo
-안녕하세요! 똑 부러지게 일하는 개발자 곽지우입니다.
 - email: wldn0804@gmail.com
 - Blog: [Link](https://jiwoo84.tistory.com/)
 
